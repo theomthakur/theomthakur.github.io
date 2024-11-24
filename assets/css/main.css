@@ -1838,7 +1838,7 @@ input, select, textarea {
 		-webkit-transition: border-color 0.2s ease;
 		-ms-transition: border-color 0.2s ease;
 		transition: border-color 0.2s ease;
-		background-color: #F5EE84;
+		background-color: #495057;
 		border: solid 1px !important;
 		border-color: #474306 !important;
 		border-radius: 3em;
@@ -1873,7 +1873,7 @@ input, select, textarea {
 			-webkit-transition: opacity 0.2s ease, -webkit-transform 0.2s ease;
 			-ms-transition: opacity 0.2s ease, -ms-transform 0.2s ease;
 			transition: opacity 0.2s ease, transform 0.2s ease;
-			background: #F5EE84;
+			background: #495057;
 			border-radius: 3em;
 			content: '';
 			height: 100%;
@@ -1921,7 +1921,7 @@ input, select, textarea {
 		input[type="button"].primary,
 		button.primary,
 		.button.primary {
-			background-color: #F5EE84;
+			background-color: #495057;
 			color: #312450 !important;
 		}
 
