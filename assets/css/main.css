@@ -22,7 +22,7 @@ section, summary, time, mark, audio, video {
 	padding: 0;
 	border: 0;
 	font-size: 100%;
-	color: #03045E;
+	color: #333333;
 	font: inherit;
 	vertical-align: baseline;}
 
@@ -161,26 +161,26 @@ input, select, textarea {
 
 		a:hover {
 			border-bottom-color: transparent;
-			color: #03045E;
+			color: #33333;
 		}
 
 	strong, b {
-		color: #03045E;
+		color: #333333;
 		font-weight: bold;
 	}
 
 	em, i {
-		color: #03045E;
+		color: #333333;
 		font-style: italic;
 	}
 
 	p {
-		color: #03045E;
+		color: #333333;
 		margin: 0 0 2em 0;
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #03045E;
+		color: #333333;
 		font-weight: bold;
 		line-height: 1.5;
 		margin: 0 0 0.5em 0;
@@ -1842,7 +1842,7 @@ input, select, textarea {
 		border: solid 1px !important;
 		border-color: #474306 !important;
 		border-radius: 3em;
-		color: #03045E !important;
+		color: #333333 !important;
 		cursor: pointer;
 		display: inline-block;
 		font-size: 0.65em;
@@ -2302,7 +2302,7 @@ input, select, textarea {
 		}
 
 	label {
-		color: #03045E;
+		color: #333333;
 		font-weight: bold;
 		line-height: 1.5;
 		margin: 0 0 0.7em 0;
@@ -3748,7 +3748,7 @@ input, select, textarea {
 			-ms-transition: color 0.2s ease;
 			transition: color 0.2s ease;
 			border: 0;
-			color: #03045E;
+			color: #333333;
 			display: block;
 			font-size: 0.6em;
 			font-weight: bold;
@@ -3792,7 +3792,7 @@ input, select, textarea {
 			}
 
 			#sidebar nav a.active {
-				color: #03045E;
+				color: #33333;
 			}
 
 				#sidebar nav a.active:after {
