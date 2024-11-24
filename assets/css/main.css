@@ -117,7 +117,7 @@ input, select, textarea {
 /* Type */
 
 	body, input, select, textarea {
-		color: #FAF9F6;
+		color: #F4F4F4;
 		/* font-family: Arial, Helvetica, sans-serif; */
 		font-family: "Poppins", sans-serif;
 		font-size: 16.5pt;
@@ -2406,7 +2406,7 @@ input, select, textarea {
 		input[type="checkbox"] + label,
 		input[type="radio"] + label {
 			text-decoration: none;
-			color: #FAF9F6;
+			color: #F4F4F4;
 			cursor: pointer;
 			display: inline-block;
 			font-size: 1em;
@@ -3428,7 +3428,7 @@ input, select, textarea {
 					}
 
 						#header > nav > ul > li a:hover {
-							color: #FAF9F6;
+							color: #F4F4F4;
 						}
 
 						#header > nav > ul > li a.active {
